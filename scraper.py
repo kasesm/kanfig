@@ -70,7 +70,6 @@ def get_live_configs(channel_username):
 
 # لیست کانال‌ها
 high_volume_channel = 'filter_breaker'
-special_channel = 
 normal_channels = [
     'Azadnet', 'AR14N24B', 'aristapnel', 'arshia_mod_fun', 'canfing_vpn', 
     'capoit', 'configfa', 'configraygan', 'fg_link', 'freenet_vt', 
