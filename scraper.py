@@ -70,7 +70,7 @@ def get_live_configs(channel_username):
 
 # لیست کانال‌ها
 high_volume_channel = 'filter_breaker'
-special_channel = 'isubvpn'
+special_channel = 
 normal_channels = [
     'Azadnet', 'AR14N24B', 'aristapnel', 'arshia_mod_fun', 'canfing_vpn', 
     'capoit', 'configfa', 'configraygan', 'fg_link', 'freenet_vt', 
@@ -87,7 +87,15 @@ normal_channels = [
     'samiotech', 'Hope_Net', 'ProxyFa10', 'NEW_MTProxi2', 'proxytel_fast', 'Fr33C0nfig', 'sinavm',
     'customv2ray', 'v2Line', 'GozargahVPN', 'v2raycollector', 'taynnovpn', 'NIM_VPN_ir', 'ShadowProxy66',
     'FalconPolV2rayNG', 'CUSTOMVPNSERVER', 'lrnbymaa', 'nofiltering2', 'MTproxy22_v2ray', 'Spotify_Porteghali',
-    'lightning6','shaxhabb','meliproxyy'
+    'lightning6','shaxhabb','meliproxyy','ProxyMTProto','LonUp_M','sorenab2','ProxyDaemi','iMTProto','v2rayngvpn'
+    'ConfigX2ray','IraneAzad_Net','prrofile_purple','V2WRAY','TelMTProto','v2ryNG01','V2ray_official','TheAnilad',
+    'ProxyDotNet','NPROXY','mrsoulb','ConfigsHUB','orange_vpns','BugFreeNet','TeleProxyTele','iproxy_Meli','SimChin_ir',
+    'V2rayEnglish','v2nova8','NetAccount','qpshow','DarkHub_VPN','configmax','nufilter','V2RAY_SPATIAL','PulseStore_ir',
+    'NETMelliAnti','isubvpn','Blue_star_Vip','Maznet','cpy_teeL','NetAccount','beshcan','Parsashonam','ProxySnipe','Merlin_ViP',
+    'ghalagyann','Free_Nettm','EzAccess1','ChinaPortGFW','filshekan_vip','ProxyPJ','AzadNet','ShabrangVPN','V2Ray_Tz','acccrd',
+    'DSR_TM','BestProxyTel1','configraygan','configshere','VpnQavi','v2ray_dalghak','v2rayng_fars','saka_net','config_npv',
+    'Outline_vpn','freakconfig','flyv2ray','PROXIS_FREE','chatnakonn','proxyxix','letsproxys','proxyy_1404','duckvp_n',
+    '+JtInm8-guq41OTJi','duckvp_n','proxy_kafee','WizProxy','ShadowProxy66','singbox1','Farsroid_Club',
 ]
 
 print(f"{'Channel Name':<25} | {'Count':<10}")
