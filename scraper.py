@@ -96,6 +96,7 @@ normal_channels = [
     'DSR_TM','BestProxyTel1','configraygan','configshere','VpnQavi','v2ray_dalghak','v2rayng_fars','saka_net','config_npv',
     'Outline_vpn','freakconfig','flyv2ray','PROXIS_FREE','chatnakonn','proxyxix','letsproxys','proxyy_1404','duckvp_n',
     '+JtInm8-guq41OTJi','duckvp_n','proxy_kafee','WizProxy','ShadowProxy66','singbox1','Farsroid_Club','filter_breaker',
+    'ProxyFa10',
 ]
 
 print(f"{'Channel Name':<25} | {'Count':<10}")
