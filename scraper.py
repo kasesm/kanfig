@@ -98,7 +98,7 @@ normal_channels = [
     '+JtInm8-guq41OTJi','duckvp_n','proxy_kafee','WizProxy','ShadowProxy66','singbox1','Farsroid_Club','filter_breaker',
     'ProxyFa10','taziyanteam','V2rayGulf','VIPV2rayNGNP','oliver_soul','internetAzad_Pro','wibeofme','Thirty_secunds',
     'NETMelliAnti','herwonderland','ConfigX2ray','iDeathBirth','BestProxyTel1','training_apks','Parsashonam','UnNurmal',
-    'config_salavatii', 'Frenpv', 'wibeofme', 'oxnet_ir',
+    'config_salavatii', 'Frenpv', 'wibeofme', 'oxnet_ir', 'pingseven',
 ]
 
 print(f"{'Channel Name':<25} | {'Count':<10}")
